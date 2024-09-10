@@ -25,7 +25,7 @@ public static class InspectLink
         uint dropReason,
         uint musicIndex,
         int entIndex
-        )
+    )
     {
         var proto = new CEconItemPreviewDataBlock
         {
